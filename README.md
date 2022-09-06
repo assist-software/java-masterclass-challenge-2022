@@ -12,8 +12,6 @@ The supermarket runs special deals, e.g.
 
 These are just examples: the actual special deals change each week.
 
-Create some test cases and aim to get good enough code coverage that you feel confident to do some refactoring.
-
 ### Your exercise:
 ***
 #### The aim of the exercise is to refactor this code, and if you have time to add new feature.
@@ -27,9 +25,9 @@ And on top of all this: the code should remain testable and tested!
 ***
 > Clone the repository
 
-> Go through you code and identify something you think can be improved
+> Go through the code and identify something you think can be improved
 
-> Identify code smells such as Long Method
+> Identify code smells such as: Long Method, Large Class, Inappropriate Intimacy, Speculative Generality etc
 
 > Use any libraries if necessary to want to make code more readable and easy-to-understand 
 
@@ -37,8 +35,10 @@ And on top of all this: the code should remain testable and tested!
 
 > Apply relevant design patterns
 
+> Use better naming for existing classes, variables, packages, etc.
+
 >  Restructure the code, so that
-  >> is still testable
+  >> it is still testable
 
 #### Rules
 ***
@@ -50,7 +50,7 @@ And on top of all this: the code should remain testable and tested!
 ***
 * Use immutable types as much as possible
 * Use functional programming approaches as much as possible
-* Better naming for existing classes, variables, packages, etc.
+
 
 When you're confident you can handle this code, and you have time, you can implement the new 
 feature described below
