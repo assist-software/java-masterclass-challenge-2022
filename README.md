@@ -61,3 +61,11 @@ Currently, we print a traditional ticket receipt.
 Now beeing a modern business we'd like to be able to print or send an HTML version of the same receipt.
 All the data and number formatting should be the same. However, the layout should be html.
 You don't have to worry about the HTML template - a designer will care of that - but we do need someone to keep duplication between the reports to a bare minimum.
+
+
+## Acknowledgement
+***
+ASSIST acknowledges the importance of open source and the Open Source Community.
+We make use of free and open-source software during the creation of this exercise.
+Open source software allows us to create better products and ultimately provide better service for our customers worldwide.
+We would like to thank the following Open Source Projects: [SupermarketReceipt-Refactoring-Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
