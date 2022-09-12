@@ -1,3 +1,11 @@
+# Purpose
+
+Solving this challenge will enroll you in the contest to win one of the free tickets to ASSIST Software's Java Masterclass 2022.
+
+Clone this repository, make your changes and send us a link of your public repo at java-masterclass@assist.ro until 10th October 2022.
+
+Happy Refactoring :) 
+
 # The Supermarket Receipt
 
 #### Description:
